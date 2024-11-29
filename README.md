@@ -24,7 +24,6 @@ This repository contains Python implementations of three fundamental graph algor
 - **`dijkstra.py`**: Contains the implementation of Dijkstra's algorithm.
 - **`bellman_ford.py`**: Contains the implementation of the Bellman-Ford algorithm.
 - **`floyd_warshall.py`**: Contains the implementation of the Floyd-Warshall algorithm.
-- **`example_graphs.py`**: Includes example graphs and test cases for all algorithms.
 
 ## How to Run
 
